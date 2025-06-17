@@ -2,8 +2,6 @@
 
 At Landbot, we are committed to building scalable, maintainable, and robust software through a clear and well-defined approach to coding and architecture. Our primary goal is to ensure that the code we write not only solves immediate problems but also contributes to a long-term foundation of high-quality software. To achieve this, we embrace a Domain-Centric Approach, commonly known as Domain-Driven Design (DDD), coupled with principles of Clean Architecture.
 
-You can find all the common abstractions and implementations used in this guide in this repository: [landbot-service-scaffolding](https://git.yexir.com/landbot/service-scaffolding/-/tree/main/src/shared?ref_type=heads)
-
 ## Why Domain-Driven Design?
 
 Domain-Driven Design (DDD) allows us to align our code with the business’s unique needs by focusing on core business concepts, rules, and logic. By structuring our code around the domain, we create a shared language and understanding between developers and stakeholders, ultimately producing code that is intuitive, expressive, and adaptable to evolving requirements. This approach enhances both developer productivity and the quality of our software as it grows and changes.
